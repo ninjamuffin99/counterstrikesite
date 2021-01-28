@@ -1,0 +1,9 @@
+"awp_monopoly"
+{
+	"material"	"overviews/awp_monopoly"
+	"pos_x"		"-1173"
+	"pos_y"		"1177"
+	"scale"		"2.3"
+	"rotate"	"0"
+	"zoom"		"1"
+}
